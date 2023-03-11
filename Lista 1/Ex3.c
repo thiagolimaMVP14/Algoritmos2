@@ -14,6 +14,6 @@ int main (){
     scanf("%d", &n);
 
     int quantidade = ex3(n);
-    printf("numero de digitos %d", quantidade);
+    printf("%d", quantidade);
     return 0;
 }

@@ -6,7 +6,7 @@ void ex2(int n){
     for (int i = n; i >= 2; i--){
         fat = fat * i;
     }
-    printf("o fatorial de %d e %d", n, fat);
+    printf("%d", fat);
 }
 
 int main(){
